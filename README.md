@@ -1,7 +1,7 @@
 # Air Pollution and Life Expectancy: A Cross-Country Analysis
 
 ## Project Overview
-This project investigates the relationship between PM2.5 air pollution and life expectancy using World Bank panel data from 195 countries over the period 2000–2020. Using OLS regression with economic controls (GDP per capita and health expenditure per capita), we quantify how air quality is associated with longevity after accounting for a country's wealth and healthcare spending.
+This project investigates the relationship between PM2.5 air pollution and life expectancy using World Bank panel data from 195 countries over the period 2000-2020. Using OLS regression with economic controls (GDP per capita and health expenditure per capita), we quantify how air quality is associated with longevity after accounting for a country's wealth and healthcare spending.
 
 ---
 
