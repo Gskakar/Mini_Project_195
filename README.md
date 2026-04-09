@@ -29,7 +29,8 @@ pip install pandas numpy matplotlib seaborn openpyxl statsmodels scikit-learn py
    Open `195_modelling_training_testing_evaluating.ipynb` and run all cells.
    This notebook fits two OLS models, performs an 80/20 train-test split, and computes R² and RMSE for both training and test sets.
  
-> **Note:** All notebooks install dependencies with `!pip install ...` in the first cell, so they can also be run in Google Colab or any cloud Jupyter environment without any prior setup.
+> **Note:**
+> This project uses API calls to fetch datasets from the World Bank. Occasionally, requests may return a 502 Bad Gateway error. This is a temporary server-side issue related to the API or its upstream services, and not due to the implementation of this project. Generally, retrying the request after a short delay resolves the issue.
  
 ---
 
